@@ -1,14 +1,43 @@
-# 👋 Bienvenidos a Primarket
+# 🛒 Primarket – Organización Oficial
 
-## 📘 Objetivo de esta documentación
+¡Bienvenido a **Primarket**!  
+Somos una organización dedicada a transformar la comercialización de materias primas y productos derivados, conectando productores, distribuidores y compradores en una sola plataforma eficiente, transparente y sostenible.
 
-Este espacio tiene como propósito centralizar, organizar y documentar de forma clara todas las decisiones, funcionalidades, lineamientos visuales y objetivos estratégicos definidos para Primarket.
+---
 
-Toda la información aquí incluida será validada o proporcionada por el CEO y el equipo principal, con el objetivo de:
+## 🚀 ¿Qué es Primarket?
 
-- Alinear al equipo en una misma visión de producto.
-- Garantizar una comunicación clara y estructurada entre diseño, desarrollo y negocio.
-- Documentar cada componente, sección, flujo y funcionalidad de forma ordenada y accesible.
-- Servir como fuente de referencia constante durante el desarrollo y crecimiento del proyecto.
+Primarket es un proyecto que nace con la visión de **digitalizar y optimizar la venta y compra de materias primas**, garantizando:
+- Transparencia en precios y condiciones.
+- Procesos logísticos más eficientes.
+- Acceso justo y directo entre productores y compradores.
+- Promoción de prácticas de comercio responsable y sostenible.
 
-> 🧭 Esta documentación se actualizará de forma continua conforme avancemos en el desarrollo, pruebas y mejoras de Primarket.
+---
+
+## 🎯 Nuestra misión
+
+Brindar a pequeñas y grandes empresas, así como a productores independientes, una plataforma donde puedan:
+- Publicar sus productos de forma clara y segura.
+- Acceder a nuevos mercados sin intermediarios abusivos.
+- Obtener información actualizada sobre tendencias de mercado.
+- Gestionar transacciones de forma ágil y segura.
+
+---
+
+## 📦 ¿Qué encontrarás en nuestros repositorios?
+
+Dentro de esta organización encontrarás:
+- 📚 **Guías**: Documentación clara para publicar productos, manejar inventarios y optimizar ventas.
+- 💻 **Código fuente**: Repositorios para nuestra plataforma web, API y herramientas auxiliares.
+- 🔗 **Integraciones**: Plugins y conectores para plataformas de pago, logística y más.
+- 🗂️ **Ejemplos y plantillas**: Para facilitar la creación de publicaciones y procesos internos.
+
+---
+
+## 🗣️ Contacto
+
+Si quieres saber más o colaborar de forma más directa, escríbenos a: **[tu-email@primarket.com](mailto:contact@primarket.com)**  
+También puedes encontrarnos en nuestras redes sociales oficiales.
+
+
