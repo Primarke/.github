@@ -33,11 +33,5 @@ Dentro de esta organización encontrarás:
 - 🔗 **Integraciones**: Plugins y conectores para plataformas de pago, logística y más.
 - 🗂️ **Ejemplos y plantillas**: Para facilitar la creación de publicaciones y procesos internos.
 
----
-
-## 🗣️ Contacto
-
-Si quieres saber más o colaborar de forma más directa, escríbenos a: **[tu-email@primarket.com](mailto:contact@primarket.com)**  
-También puedes encontrarnos en nuestras redes sociales oficiales.
 
 
